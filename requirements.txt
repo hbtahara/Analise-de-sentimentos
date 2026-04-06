@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+python-dotenv
+google-generativeai
+openai
+duckduckgo_search
+# transformers  # Opcional (Pode falhar no Python 3.13)
+# torch         # Opcional (Pode falhar no Python 3.13)
+# nltk          # Opcional
+# scikit-learn  # Opcional

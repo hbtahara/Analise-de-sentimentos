@@ -1,0 +1,5 @@
+# Adicionei estas regras ao seu .gitignore:
+.env
+__pycache__/
+*.pyc
+.streamlit/
